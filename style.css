@@ -21,6 +21,15 @@ body {
   padding: 50px 0px;
 }
 
+header {
+  font-family: poppins, sans-serif;
+  color: beige;
+  font-size: 2.5vmin;
+  text-align: center;
+  position: absolute;
+  top: 2vmin ;
+}
+
 .night {
   position: fixed;
   left: 50%;
